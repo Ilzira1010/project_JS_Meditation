@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 30px;
 }
 
+
 .change {
     width: 100%;
     padding-top: 20px;
@@ -72,4 +73,15 @@ video {
 
 .videos_1 {
     margin-top: 70px;
+}
+.btn {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 10px 40px; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+    vertical-align: text-before-edge;
+
+
 }
